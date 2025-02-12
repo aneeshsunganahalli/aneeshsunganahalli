@@ -2,9 +2,6 @@
 I'm a second-year Computer Science and Engineering student at JSSSTU with a deep passion for coding, machine learning, and developing scalable, high-performance applications. While I primarily work with the MERN stack, I'm also keen on exploring AI/ML to build intelligent and innovative solutions. Constantly learning and pushing boundaries, I thrive on solving complex problems and creating impactful software.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aneesh-sunganahalli-65343b328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshs.ldn@gmail.com) 
-
 # 💻 Tech Stack:
 ###
 
