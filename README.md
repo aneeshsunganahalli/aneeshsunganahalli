@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
 # 💫 About Me:
 I'm a second-year Computer Science and Engineering student at JSSSTU with a deep passion for coding, machine learning, and developing scalable, high-performance applications. While I primarily work with the MERN stack, I'm also keen on exploring AI/ML to build intelligent and innovative solutions. Constantly learning and pushing boundaries, I thrive on solving complex problems and creating impactful software.
 
