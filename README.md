@@ -56,5 +56,5 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-sunganahalli-65343b328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeshs05//)
 
