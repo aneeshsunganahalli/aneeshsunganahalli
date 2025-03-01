@@ -39,6 +39,8 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 ![](https://github-readme-stats.vercel.app/api?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Somedude05?theme=dark&font=Karma)
