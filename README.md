@@ -39,11 +39,11 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
 </p>
 
 ## 📈 Contribution Graph
