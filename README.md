@@ -37,12 +37,12 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 ###
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
 </p>
 
