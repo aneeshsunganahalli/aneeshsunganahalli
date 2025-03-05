@@ -52,7 +52,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 
 ## 📈 Contribution Graph
 
-[![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshsunganahalli&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshsunganahalli&theme=react-dark&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
