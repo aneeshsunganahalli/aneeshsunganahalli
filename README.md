@@ -43,7 +43,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
 </p>
 
 
