@@ -42,7 +42,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
   <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" />
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
 </p>
 
