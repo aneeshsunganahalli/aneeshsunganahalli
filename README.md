@@ -37,14 +37,10 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 ###
 ## 📊 GitHub Stats
 
-<p align="left" >
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" />
-  
-</p>
-
-<p align="right">
   <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=false" />
