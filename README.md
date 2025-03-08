@@ -37,14 +37,14 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 ###
 ## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
+</p>
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" />
   <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" />
 </div>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
-</p>
 
 
 ## 📈 Contribution Graph
