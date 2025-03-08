@@ -38,7 +38,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 ## 📊 GitHub Stats
 
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" />
   
 </p>
 
@@ -47,7 +47,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsunganahalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" />
 </p>
 
 ## 📈 Contribution Graph
