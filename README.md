@@ -51,6 +51,8 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
 
 [![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshsunganahalli&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## LeetCode
+![](https://leetcard.jacoblin.cool/Somedude05?border=0&radius=20)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aneeshsunganahalli&icon=0&color=0)](https://visitcount.itsvg.in)
