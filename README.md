@@ -25,8 +25,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+
    
 </div>
 
