@@ -23,7 +23,7 @@ I'm a second-year Computer Science and Engineering student at JSSSTU with a deep
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="34" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="mongodb logo"  />
 
    
 </div>
