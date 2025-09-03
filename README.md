@@ -2,52 +2,103 @@
 
 
 # 💫 About Me:
-I'm a second-year Computer Science and Engineering student at JSSSTU with a deep passion for coding, machine learning, and developing scalable, high-performance applications. While I primarily work with the MERN stack, I'm also keen on exploring AI/ML to build intelligent and innovative solutions. Constantly learning and pushing boundaries, I thrive on solving complex problems and creating impactful software.
+I’m a third-year Computer Science and Engineering student at JSSSTU with a strong passion for coding, machine learning, and building scalable, high-performance applications. Skilled in the MERN stack with TypeScript, I also develop with FastAPI and continue to explore AI/ML to create intelligent, innovative solutions. Currently expanding my expertise into cloud technologies such as Docker and AWS, I enjoy solving complex problems, learning continuously, and delivering impactful software.
 
 
 # 💻 Tech Stack:
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="34" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="34" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="mongodb logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,supabase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,git,linux,docker,aws&theme=dark" />
+  </a>
+</p>
 
-   
 </div>
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" />
-  <img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" />
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
+  <p></p>
+
+  <!-- Stats + Languages side by side -->
+  <table>
+    <tr>
+      <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" /></td>
+      <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" /></td>
+    </tr>
+  </table>
+
+</div>
+
+## 🧩 LeetCode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Somedude05?border=0&radius=20" />
 </div>
 
 
-## 📈 Contribution Graph
+## 🛠️ Projects - Showcase
 
-[![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshsunganahalli&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
 
-## LeetCode
-![](https://leetcard.jacoblin.cool/Somedude05?border=0&radius=20)
 
----
-[![](https://visitcount.itsvg.in/api?id=aneeshsunganahalli&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
