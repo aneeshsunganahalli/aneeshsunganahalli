@@ -83,7 +83,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshs05/)&nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aneeshappid@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=instagram)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aneesh._.s_/)
 
 
 
