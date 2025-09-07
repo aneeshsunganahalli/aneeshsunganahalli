@@ -77,7 +77,7 @@
 ### [BrightMind](https://github.com/YOUR_GITHUB_USERNAME/BrightMind)  
 - 🎓 An **educational platform for rural students**, designed to improve access to quality learning.  
 - 📝 Generates **custom learning content and quizzes** tailored to different grades and subjects.  
-- 🛠 Built at the Advaya Hackathon using **Next.js, Django, and SQLite**.  
+- 🛠 Built at the Advaya Hackathon using **Next.js, Django, and SQLite (Development)**.  
 
 ## 🤝 Let's Connect  
 
