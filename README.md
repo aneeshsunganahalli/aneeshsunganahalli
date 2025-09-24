@@ -66,7 +66,7 @@
 ### [HealthScan](https://github.com/aneeshsunganahalli/HealthScan)  
 - 🏥 Simplifies healthcare management by **digitizing medical records using QR codes**.  
 - 📋 Enables hospitals to **store, access, and manage patient data** more efficiently.  
-- 🛠 Built with **React, FastAPI, and deployed on Heroku**.  
+- 🛠 Built with **React, FastAPI, PostgreSQL and deployed on Heroku**.  
  
 
 ### [CoSketch](https://github.com/aneeshsunganahalli/CoSketch)  
