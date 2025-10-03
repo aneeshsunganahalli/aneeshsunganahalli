@@ -38,21 +38,8 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<div align="center"> <!-- Streak stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true"/> <p></p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshsunganahalli&theme=dark" alt="Profile Details" /> <p></p> <!-- Stats + Languages side by side --> <table> <tr> <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" /></td> <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
 
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
-  <p></p>
-
-  <!-- Stats + Languages side by side -->
-  <table>
-    <tr>
-      <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" /></td>
-      <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" /></td>
-    </tr>
-  </table>
-
-</div>
 
 ## 🧩 LeetCode
 
