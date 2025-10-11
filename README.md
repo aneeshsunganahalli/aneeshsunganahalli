@@ -13,28 +13,18 @@
 # 💻 Tech Stack:
 ###
 
-### **Programming Languages**
- ![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
- ![TypeScript](https://skillicons.dev/icons?i=ts)&nbsp;&nbsp;
- ![Python](https://skillicons.dev/icons?i=py)&nbsp;&nbsp;
- ![Go](https://skillicons.dev/icons?i=go)
+<div align="center">
 
-### **Frameworks & Libraries**
-![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp;&nbsp;
-![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;
-![Express](https://skillicons.dev/icons?i=express)&nbsp;&nbsp;
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<!-- First line: more icons -->
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,nextjs,react,nodejs,express,fastapi" alt="Programming Languages & Frameworks" /><p></p>
+<!-- Second line: remaining icons -->
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,mongodb,postgres,supabase" alt="Databases & Tools" />
+
+</div>
 
 
-### **Database & Tools**
-![Linux](https://skillicons.dev/icons?i=linux)&nbsp;&nbsp;
-![Docker](https://skillicons.dev/icons?i=docker)&nbsp;&nbsp;
-![AWS](https://skillicons.dev/icons?i=aws)&nbsp;&nbsp;
-![Git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
-![MongoDB](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp;
-![Postgres](https://skillicons.dev/icons?i=postgres)&nbsp;&nbsp;
-![Supabase](https://skillicons.dev/icons?i=supabase)
+
+
 
 # 📊 GitHub Stats
 
@@ -47,30 +37,9 @@
   <img src="https://leetcard.jacoblin.cool/Somedude05?border=0&radius=20" />
 </div>
 
+## Hacktoberfest Holopin Badges 🏅
+[![An image of @aneeshsunganahalli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aneeshsunganahalli)](https://holopin.io/@aneeshsunganahalli)
 
-## 🛠️ Projects - Showcase
-
-### [HealthScan](https://github.com/aneeshsunganahalli/HealthScan)  
-- 🏥 Simplifies healthcare management by **digitizing medical records using QR codes**.  
-- 📋 Enables hospitals to **store, access, and manage patient data** more efficiently.  
-- 🛠 Built with **React, FastAPI, PostgreSQL and deployed on Heroku**.  
- 
-
-### [CoSketch](https://github.com/aneeshsunganahalli/CoSketch)  
-- 📝 A **real-time collaborative whiteboard** for brainstorming, teaching, and team discussions.  
-- 🔗 Multiple users can **draw, write, and interact simultaneously** in shared sessions.  
-- 🛠 Built with **Next.js, Node.js, WebSockets, and TailwindCSS** for seamless collaboration.
-
-### [BrightMind](https://github.com/YOUR_GITHUB_USERNAME/BrightMind)  
-- 🎓 An **educational platform for rural students**, designed to improve access to quality learning.  
-- 📝 Generates **custom learning content and quizzes** tailored to different grades and subjects.  
-- 🛠 Built at the Advaya Hackathon using **Next.js, Django, and SQLite (Development)**.  
-
-## 🤝 Let's Connect  
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshs05/)&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aneeshappid@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aneesh._.s_/)
 
 
 
