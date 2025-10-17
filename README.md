@@ -18,7 +18,7 @@
 <!-- First line: more icons -->
 <img src="https://skillicons.dev/icons?i=js,ts,py,go,nextjs,react,nodejs,express,fastapi" alt="Programming Languages & Frameworks" /><p></p>
 <!-- Second line: remaining icons -->
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,mongodb,postgres,supabase" alt="Databases & Tools" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,postgres,supabase" alt="Databases & Tools" />
 
 </div>
 
