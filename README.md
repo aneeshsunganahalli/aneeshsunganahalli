@@ -34,7 +34,8 @@
 ## 🧩 LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Somedude05?border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/Somedude05?border=0&theme=dark&font=Manuale%20Mono&ext=contest" />
+  
 </div>
 
 ## Hacktoberfest Holopin Badges 🏅
