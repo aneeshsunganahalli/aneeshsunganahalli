@@ -2,15 +2,15 @@
 
 
 #  About Me:
-  > Third-year Computer Science undergraduate with a strong interest in backend development, distributed systems, and system design.
-> 
-> Experienced in Python and currently working with Go, while continuously sharpening my problem-solving skills through data structures and algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I’m a big Formula 1 fan and enjoy staying active at the gym. 
+Third-year Computer Science undergraduate with a strong interest in backend development, distributed systems, and system design.
+ 
+Experienced in Python and currently working with Go, while continuously sharpening my problem-solving skills through data structures and algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I’m a big Formula 1 fan and enjoy staying active at the gym. 
 
 ---
 <div align="center">
 
 <!-- First line: more icons -->
-<img src="https://skillicons.dev/icons?i=js,ts,py,go,nextjs,react,nodejs,express,fastapi" alt="Programming Languages & Frameworks" /><p></p>
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,nextjs,react,nodejs,express,fastapi" alt="Programming Languages & Frameworks" /><p></p>
 <!-- Second line: remaining icons -->
 <img src="https://skillicons.dev/icons?i=aws,git,mongodb,postgres,supabase" alt="Databases & Tools" /><p></p>
 <img src="https://skillicons.dev/icons?i=linux,docker,arch,bash,neovim,obsidian" alt="Tools" />
