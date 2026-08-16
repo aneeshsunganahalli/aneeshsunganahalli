@@ -2,9 +2,9 @@
 
 
 #  About Me:
-Third-year Computer Science undergraduate with a strong interest in backend development, distributed systems, and system design.
+Fourth-year Computer Science undergraduate with a strong interest in backend development, playing around the terminal and various new software.
  
-Experienced in Python and currently working with Go, while continuously sharpening my problem-solving skills through data structures and algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I’m a big Formula 1 fan and enjoy staying active at the gym. 
+Experienced in Python and currently working with Go, while continuously sharpening my problem-solving skills through data structures and algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I’m a big Formula 1 fan and enjoy Linux ricing. 
 
 ---
 <div align="center">
@@ -20,15 +20,8 @@ Experienced in Python and currently working with Go, while continuously sharpeni
 
 ---
 
-<div align="center"> <!-- Streak stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true"/> 
-  <img src="https://leetcard.jacoblin.cool/Somedude05?border=0&theme=dark&font=Manuale%20Mono&" /><p></p> 
-  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshsunganahalli&theme=dark" alt="Profile Details" />  -->
 <p></p> <!-- Stats + Languages side by side --> <table> <tr> <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/overview.svg" /></td> <td><img src="https://github.com/aneeshsunganahalli/github-stats-transparent/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
 
-
----
-
-[![An image of @aneeshsunganahalli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aneeshsunganahalli)](https://holopin.io/@aneeshsunganahalli)
 
 
 
